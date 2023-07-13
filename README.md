@@ -4,7 +4,7 @@ The aim of this notebook is trying different methods to enable my computer to re
 
 We will be working with the MNIST dataset. 
 
-#Part 1 : statistical approach
+# Part 1 : statistical approach
 
 First I will only be using the knowledges that I have learned in statistics.
 I will try to approximate the probability of each pixel to be Black or White by using the Likelyhood function.
